@@ -40,6 +40,18 @@ chda BOY_NEW BOY.HDA
 Done! Your custom head is in the game.
 
 
+NOTE: Be sure to replace all files and folders from Boy_MOD_v3_2, Boy_MOD_v4, Boy_MOD_v5.
+
+Because some batches like batch_0082.obj from model_05 folder which is Boy's Tools Items Folder, for Example I've modified, for Taller Boy Mod,
+
+Like with the commands for Example: -boymodv4 BOY_00000.rdtb - so the Hoe Tool Item which is batch_0082,
+doesn't stop in the mid air but hits the ground when you use it in game.
+
+Also Modded the Eyes, and Mouth batches, which are in model_03 folder (Eyes), and model_04 folder (Mouth),
+
+So if you using my Boy Mods, be sure to replace all files, to not have bugs or issues.
+
+
 ⚠️ Important Limits — Watch Out!
 
 When making your custom head mesh in Blender,
